@@ -1,7 +1,11 @@
+*{
+  box-sizing:border-box;
+}
 
 
 
 body {
+    width:100%;
     margin: 0;
     font-family: "Lucida Grande";
   }
@@ -24,6 +28,10 @@ body {
       color:red;
   } 
   .container p{
+        position: absolute;
+  top: 44%;
+  width: 100%;
+
     margin-bottom: 20px;  
   }
   .gfg span{
