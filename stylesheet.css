@@ -33,7 +33,7 @@ body {
   }
   .top-wrapper {
     padding: 20px 0 20px 0;
-    background-image:url(back.jpg);
+    background-color:beige;
     background-size: cover;
     color: black;
     text-align: center;
