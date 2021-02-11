@@ -9,9 +9,13 @@ body {
   a {
     text-decoration: none;
   }
-  
+@media(max-width){
+    body{
+    background-color:#f5f5dc;
+    }
+}
   .container {
-    width: 1170px;
+    width: 100%;
     padding: 0 15px;
     margin: 0 auto;
   }
